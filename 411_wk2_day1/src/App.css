@@ -36,13 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.blackButton{
-  background-color: black;
-  color: white;
-}
-
-.whiteButton{
-  background-color: white;
-  color: black;
-}
