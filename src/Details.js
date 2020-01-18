@@ -36,7 +36,7 @@ render() {
 }
 }
 
-//created Child formatted to put in JSX
+//created Child formatted   to put in JSX
 const Child = ({person}) => {
   console.log("***check***", person)
   let {street, city, state, country} = person.location
